@@ -1,6 +1,6 @@
 # Week 0 — Billing and Architecture
 
-## Required Home work/Task -
+## Required Home work/Tasks 
 
 ### Installing AWS CLI
 
